@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h2>testing snapshot test</h2>
       </header>
     </div>
   );
